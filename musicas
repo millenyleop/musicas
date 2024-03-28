@@ -1,0 +1,22 @@
+INSERT INTO musica (ID, nomemusica, artista, idioma, duracaomin)
+VALUES
+(1, 'Bohemian Rhapsody', 'Queen', 'English', '5:55'),
+(2, 'Imagine', 'John Lennon', 'English', '3:02'),
+(3, 'Hotel California', 'The Eagles', 'English', '6:30'),
+(4, 'Don’t Stop Believin’', 'Journey', 'English', '3:58'),
+(5, 'Billie Jean', 'Michael Jackson', 'English', '4:54'),
+(6, 'Sweet Child O’ Mine', 'Guns N’ Roses', 'English', '5:34'),
+(7, 'Smells Like Teen Spirit', 'Nirvana', 'English', '5:01'),
+(8, 'Black Hole Sun', 'Soundgarden', 'English', '5:09'),
+(9, 'Smile', 'The Beach Boys', 'English', '1:59'),
+(10, 'Song 2', 'Blur', 'English', '3:56'),
+(11, 'Under Pressure', 'Queen & David Bowie', 'English', '4:05'),
+(12, 'I Want to Know What Love Is', 'Foreigner', 'English', '4:01'),
+(13, 'Love Will Tear Us Apart', 'Joy Division', 'English', '3:48'),
+(14, 'Roxanne', 'The Police', 'English', '3:11'),
+(15, 'Bitter Sweet Symphony', 'The Verve', 'English', '4:54'),
+(16, 'The Sound of Silence', 'Simon & Garfunkel', 'English', '2:50'),
+(17, 'Hotel California', 'The Eagles', 'English', '6:30'),
+(18, 'Don’t Stop Believin’', 'Journey', 'English', '3:58'),
+(19, 'Bohemian Rhapsody', 'Queen', 'English', '5:55'),
+(20, 'Imagine', 'John Lennon', 'English', '3:02');
