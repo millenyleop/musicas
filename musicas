@@ -1,4 +1,4 @@
-INSERT INTO musica (ID, musica, artista, idioma, duração)
+INSERT INTO musica (ID, música, artista, idioma, duração)
 VALUES
 (1, 'Talking to the Moon', 'Bruno Mars', 'English', '3:37'),
 (2, 'Cars Outside', 'James Smith', 'English', '3:50'),
